@@ -1,1 +1,4 @@
 All Mind Investments uses proprietary large language models (AllMind AI-12B) and machine learning to redefine financial analysis and research for investment bankers, day traders, independent investors and financial software developers. Our platform interprets financial prompts, providing predictive analytics, reliable real-time data, and critical insights into financial metrics. This empowers our users to make quick, informed investment decisions and significantly reduces their research time and costs. I working on implementing API licensing and cloud hosted Retrieval Augmented Generation technology, enabling the integration of my analysis tools into existing enterprise and personal systems for enhanced information retrieval and market analysis. We launched our product on April 3, 2024 and in 5 days have received almost 3000 site viewers and many active users who have started paying for a subscription. 
+
+**COMPARISON WITH GPT:**
+
